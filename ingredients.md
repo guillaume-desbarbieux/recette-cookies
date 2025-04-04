@@ -20,6 +20,5 @@ Bon appétit !
 accompagné d'un verre de jus de pomme pétillant, c'est un délice !
 à partager sans modération
 poussez la chansonnette !
-<<<<<<< HEAD
 profitez du soleil
 racontez de bonnes blagues
