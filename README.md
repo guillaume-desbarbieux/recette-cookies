@@ -1,2 +1,1 @@
-# recette-cookies
-Recette gourmande
+recette gourmande
