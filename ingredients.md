@@ -22,3 +22,5 @@ accompagné d'un verre de jus de pomme pétillant, c'est un délice !
 poussez la chansonnette !
 profitez du soleil
 racontez de bonnes blagues
+
+ajouter du sel et du poivre
