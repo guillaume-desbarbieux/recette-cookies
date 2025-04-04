@@ -1,5 +1,6 @@
-- des champignons
-- du fenouils
+- de la farine de manioc
+
+-  du fenouils
 - de la pâte d'arachide
 - 85 g de beurre mou
 - 1œuf
