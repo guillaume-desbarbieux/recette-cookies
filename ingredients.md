@@ -18,3 +18,4 @@
 - Beaucoup de gourmandise !
 
 Bon appétit !
+accompagné d'un verre de jus de pomme pétillant, c'est un délice !
