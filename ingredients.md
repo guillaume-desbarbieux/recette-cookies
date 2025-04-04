@@ -12,7 +12,6 @@
 - 1 cuillère à café de sel
 - 1 cuillère à café de levure chimique
 
-=======
 
 
 - Beaucoup de gourmandise !
@@ -21,4 +20,6 @@ Bon appétit !
 accompagné d'un verre de jus de pomme pétillant, c'est un délice !
 à partager sans modération
 poussez la chansonnette !
+<<<<<<< HEAD
 profitez du soleil
+racontez de bonnes blagues
