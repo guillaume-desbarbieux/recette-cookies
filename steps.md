@@ -7,3 +7,4 @@
 - Enfourner pour 10 minutes de cuisson.
 - Manger
 - Faire la vaisselle
+- Ranger les placards
