@@ -17,5 +17,3 @@
 - Beaucoup de gourmandise !
 
 Bon appétit !
-
-test changement depuis vscode
